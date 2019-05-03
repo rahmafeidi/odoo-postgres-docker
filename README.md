@@ -6,4 +6,4 @@ and Nginx as a reverse proxy.
 2. Run docker-compose up -d to build and start containers.
 
 For more information, see Docker Compose Examples section: https://hub.docker.com/_/odoo/
-testing 1..2..3
+upgrade
