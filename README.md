@@ -8,4 +8,4 @@ and Nginx as a reverse proxy.
 For more information, see Docker Compose Examples section: https://hub.docker.com/_/odoo/
 upgrade
 update
-update
+
