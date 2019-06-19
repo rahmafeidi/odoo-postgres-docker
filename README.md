@@ -9,4 +9,4 @@ For more information, see Docker Compose Examples section: https://hub.docker.co
 upgrade
 update
 jenkins
-jenkins
+update
